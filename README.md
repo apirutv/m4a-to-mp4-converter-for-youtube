@@ -1,7 +1,3 @@
-Here’s a **README.md** you can drop into the same folder as your script. It explains what the script does, how it works, and how to run it step-by-step on **WSL Ubuntu** (but it works the same on Windows/Mac too if Python + FFmpeg are installed).
-
----
-
 # 🎬 M4A → MP4 Converter (with Thumbnail PNG)
 
 This script batch-converts audio podcast files (`.m4a`) into **YouTube-ready `.mp4` videos**, using a **PNG with the same base name** as the static thumbnail/cover image.
@@ -143,3 +139,4 @@ options:
 This script is free to use, modify, and distribute for personal or commercial purposes. No warranty provided — use at your own risk.
 
 ---
+
